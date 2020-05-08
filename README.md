@@ -8,3 +8,5 @@ Here we Study Public mobility During the COVID19 outbreak. By studying the commu
 
 For this purpose, we use Google Community Mobility dataset (https://www.google.com/covid19/mobility/)
 And Kagle dataset for COVID19 cases in the US https://www.kaggle.com/sudalairajkumar/covid19-in-usa
+
+Medium: https://medium.com/@dagmsky/studying-public-mobility-during-covid19-outbreak-f9030f9feadf
