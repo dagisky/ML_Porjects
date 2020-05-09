@@ -26,7 +26,7 @@ For this purpose, we use Google Community Mobility [dataset](https://www.google.
 
 
 ### Results
-The main findings of the code can be found at the post available [here.](https://medium.com/@dagmsky/studying-public-mobility-during-covid19-outbreak-f9030f9feadf)
+The main findings of the code can be found at the MEDIUM post available [here.](https://medium.com/@dagmsky/studying-public-mobility-during-covid19-outbreak-f9030f9feadf)
 
 
 ### Licensing, Authors, Acknowledgements
